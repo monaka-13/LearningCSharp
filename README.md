@@ -1,2 +1,2 @@
-# LearningC-
-practise C#
+# LearningC#
+practice C#
