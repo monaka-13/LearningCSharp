@@ -1,0 +1,14 @@
+C:\CSharpPractice\Practice001\bin\Debug\net9.0\Practice001.exe
+C:\CSharpPractice\Practice001\bin\Debug\net9.0\Practice001.deps.json
+C:\CSharpPractice\Practice001\bin\Debug\net9.0\Practice001.runtimeconfig.json
+C:\CSharpPractice\Practice001\bin\Debug\net9.0\Practice001.dll
+C:\CSharpPractice\Practice001\bin\Debug\net9.0\Practice001.pdb
+C:\CSharpPractice\Practice001\obj\Debug\net9.0\Practice001.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpPractice\Practice001\obj\Debug\net9.0\Practice001.AssemblyInfoInputs.cache
+C:\CSharpPractice\Practice001\obj\Debug\net9.0\Practice001.AssemblyInfo.cs
+C:\CSharpPractice\Practice001\obj\Debug\net9.0\Practice001.csproj.CoreCompileInputs.cache
+C:\CSharpPractice\Practice001\obj\Debug\net9.0\Practice001.dll
+C:\CSharpPractice\Practice001\obj\Debug\net9.0\refint\Practice001.dll
+C:\CSharpPractice\Practice001\obj\Debug\net9.0\Practice001.pdb
+C:\CSharpPractice\Practice001\obj\Debug\net9.0\Practice001.genruntimeconfig.cache
+C:\CSharpPractice\Practice001\obj\Debug\net9.0\ref\Practice001.dll
