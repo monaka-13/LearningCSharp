@@ -1,0 +1,15 @@
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250130_for-loop\SectionA\bin\Debug\net9.0\SectionA.exe
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250130_for-loop\SectionA\bin\Debug\net9.0\SectionA.deps.json
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250130_for-loop\SectionA\bin\Debug\net9.0\SectionA.runtimeconfig.json
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250130_for-loop\SectionA\bin\Debug\net9.0\SectionA.dll
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250130_for-loop\SectionA\bin\Debug\net9.0\SectionA.pdb
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250130_for-loop\SectionA\obj\Debug\net9.0\SectionA.GeneratedMSBuildEditorConfig.editorconfig
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250130_for-loop\SectionA\obj\Debug\net9.0\SectionA.AssemblyInfoInputs.cache
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250130_for-loop\SectionA\obj\Debug\net9.0\SectionA.AssemblyInfo.cs
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250130_for-loop\SectionA\obj\Debug\net9.0\SectionA.csproj.CoreCompileInputs.cache
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250130_for-loop\SectionA\obj\Debug\net9.0\SectionA.sourcelink.json
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250130_for-loop\SectionA\obj\Debug\net9.0\SectionA.dll
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250130_for-loop\SectionA\obj\Debug\net9.0\refint\SectionA.dll
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250130_for-loop\SectionA\obj\Debug\net9.0\SectionA.pdb
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250130_for-loop\SectionA\obj\Debug\net9.0\SectionA.genruntimeconfig.cache
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250130_for-loop\SectionA\obj\Debug\net9.0\ref\SectionA.dll
