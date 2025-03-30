@@ -1,5 +1,5 @@
 ﻿using System;
-class SectionA
+class SectionB
 {
     static void Main(string[] args)
     {
