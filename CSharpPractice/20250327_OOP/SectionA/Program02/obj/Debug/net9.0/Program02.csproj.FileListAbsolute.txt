@@ -1,0 +1,15 @@
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250327_OOP\SectionA\Program02\bin\Debug\net9.0\Program02.exe
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250327_OOP\SectionA\Program02\bin\Debug\net9.0\Program02.deps.json
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250327_OOP\SectionA\Program02\bin\Debug\net9.0\Program02.runtimeconfig.json
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250327_OOP\SectionA\Program02\bin\Debug\net9.0\Program02.dll
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250327_OOP\SectionA\Program02\bin\Debug\net9.0\Program02.pdb
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250327_OOP\SectionA\Program02\obj\Debug\net9.0\Program02.GeneratedMSBuildEditorConfig.editorconfig
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250327_OOP\SectionA\Program02\obj\Debug\net9.0\Program02.AssemblyInfoInputs.cache
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250327_OOP\SectionA\Program02\obj\Debug\net9.0\Program02.AssemblyInfo.cs
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250327_OOP\SectionA\Program02\obj\Debug\net9.0\Program02.csproj.CoreCompileInputs.cache
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250327_OOP\SectionA\Program02\obj\Debug\net9.0\Program02.sourcelink.json
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250327_OOP\SectionA\Program02\obj\Debug\net9.0\Program02.dll
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250327_OOP\SectionA\Program02\obj\Debug\net9.0\refint\Program02.dll
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250327_OOP\SectionA\Program02\obj\Debug\net9.0\Program02.pdb
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250327_OOP\SectionA\Program02\obj\Debug\net9.0\Program02.genruntimeconfig.cache
+D:\13_CSIS1175_Introduction(CSharp)\LearningCSharp\CSharpPractice\20250327_OOP\SectionA\Program02\obj\Debug\net9.0\ref\Program02.dll
